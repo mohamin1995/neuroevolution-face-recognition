@@ -3,7 +3,7 @@ Evolutionary(GA) weight updating of ANN for face recognition
 
 based on this project : http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/faces.html
 
-1.Download dataset from mentioned project's page
+1.Download dataset from mentioned project page
 
 2.Compile codes with make command(Makefile is existed in directory)
 
