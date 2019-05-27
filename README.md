@@ -1,5 +1,8 @@
 # neuroevolution-face-recognition
-Evolutionary(GA) weight updating of ANN for face recognition
+Evolutionary(GA) weight updating of ANN for face recognition</br>
+
+![dataset](https://www.researchgate.net/profile/Margarita_Gamarra/publication/220838886/figure/fig4/AS:394081231491078@1470967695318/Examples-of-faces-dataset-To-train-and-test-the-classifier-are-used-10-images-of-each.png)
+
 
 based on this project : http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/faces.html
 
